@@ -1,0 +1,8 @@
+runs/
+**/__pycache__/
+*.log
+**/session/
+manifest.jsonl
+.DS_Store
+**/work/
+**/.pi/
